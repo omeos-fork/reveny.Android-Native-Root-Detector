@@ -1,0 +1,9 @@
+{
+  "updates": [
+    {
+      "version": "7.6.1",
+      "apkName": "native-root-detector-v7.6.1.apk",
+      "apkUrl": "https://github.com/reveny/Android-Native-Root-Detector/releases/download/v7.6.1/native-root-detector-v7.6.1.apk"
+    }
+  ]
+}
